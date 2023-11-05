@@ -1,0 +1,252 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server-2",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Cát Tường",
+      "author": "typicode"
+    }
+  ],
+  "deposit": [
+    {
+      "id": 1,
+      "fullName": "Randall Head",
+      "transactionAmount": 1000,
+      "balance": 0,
+      "email": "bepix@mailinator.com"
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "123123",
+      "id": 2
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "1000",
+      "id": 3
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "1000",
+      "id": 4
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "1000",
+      "id": 5
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "1000",
+      "transactionAmount": "10000",
+      "id": 6
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "1000",
+      "id": 7
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "1000",
+      "transactionAmount": "1000",
+      "id": 8
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "10001000",
+      "transactionAmount": "123",
+      "id": 9
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "1000",
+      "transactionAmount": "1000",
+      "id": 10
+    },
+    {
+      "fullName": "Francesca Gillespie",
+      "email": "jamacyrino@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "100",
+      "id": 11
+    },
+    {
+      "fullName": "Francesca Gillespie",
+      "email": "jamacyrino@mailinator.com",
+      "balance": "100",
+      "transactionAmount": "321",
+      "id": 12
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "2000",
+      "transactionAmount": "1000",
+      "id": 13
+    },
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "3000",
+      "transactionAmount": "1000",
+      "id": 14
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "customers": [
+    {
+      "id": 6,
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "phone": "+1 (497) 177-7633",
+      "address": "Tỉnh Kon Tum",
+      "balance": 500
+    },
+    {
+      "id": 7,
+      "fullName": "Francesca Gillespie",
+      "email": "jamacyrino@mailinator.com",
+      "phone": "+1 (344) 418-9992",
+      "address": "Tỉnh Kon Tum",
+      "balance": 421
+    },
+    {
+      "id": 8,
+      "fullName": "Charde Turner",
+      "email": "siqal@mailinator.com",
+      "phone": "+1 (385) 898-3103",
+      "address": "Tỉnh Kon Tum",
+      "balance": 0
+    },
+    {
+      "id": 9,
+      "fullName": "Rachel Williams",
+      "email": "xikexy@mailinator.com",
+      "phone": "+1 (514) 894-9178",
+      "address": "Tỉnh Kon Tum",
+      "balance": 0
+    },
+    {
+      "id": 10,
+      "fullName": "Francesca Frederick",
+      "email": "zozerew@mailinator.com",
+      "phone": "+1 (564) 177-5934",
+      "address": "Tỉnh Kon Tum",
+      "balance": 0
+    },
+    {
+      "id": 11,
+      "fullName": "Riley Spears",
+      "email": "hoqejatul@mailinator.com",
+      "phone": "+1 (642) 903-9438",
+      "address": "Tỉnh Kon Tum",
+      "balance": 10002100.05
+    },
+    {
+      "id": 12,
+      "fullName": "Uma Patel",
+      "email": "jehid@mailinator.com",
+      "phone": "+1 (962) 679-7767",
+      "address": "Tỉnh Kon Tum",
+      "balance": 0
+    },
+    {
+      "id": 14,
+      "fullName": "Fredericka Webb",
+      "email": "zymemysyti@mailinator.com",
+      "phone": "+1 (622) 228-4386",
+      "address": "Tỉnh Kon Tum",
+      "balance": 0
+    },
+    {
+      "id": 15,
+      "fullName": "Bianca Sexton",
+      "email": "hoverone@mailinator.com",
+      "phone": "+1 (195) 804-1722",
+      "address": "Tỉnh Kon Tum",
+      "balance": 0
+    },
+    {
+      "id": 16,
+      "fullName": "Ivor Norris",
+      "email": "fifo@mailinator.com",
+      "phone": "+1 (758) 802-2142",
+      "address": "Tỉnh Kon Tum",
+      "balance": 11000000000
+    },
+    {
+      "id": 17,
+      "fullName": "Kyla Wallace",
+      "email": "pabosavic@mailinator.com",
+      "phone": "+1 (731) 712-8245",
+      "address": "Tỉnh Kon Tum",
+      "balance": 8900000000
+    },
+    {
+      "fullName": "Travis Galloway",
+      "email": "jutecemoj@mailinator.com",
+      "phone": "+1 (322) 537-3038",
+      "address": "Animi illum beatae",
+      "balance": 0,
+      "id": 18
+    },
+    {
+      "fullName": "Katelyn Burns",
+      "email": "gigipixyqa@mailinator.com",
+      "phone": "+1 (905) 654-5121",
+      "address": "Ullamco blanditiis d",
+      "balance": 0,
+      "id": 19
+    }
+  ],
+  "transfers": [
+    {
+      "id": 1,
+      "transactionAmount": 1100000000,
+      "transferAmount": 1000000000,
+      "senderId": 17,
+      "recipientId": 17,
+      "createdAt": "2021-12-12 19:12:39 +0700",
+      "feesAmount": 100000000,
+      "fees": 10,
+      "recipientName": "Kyla Wallace",
+      "senderName": "Kyla Wallace",
+      "createdOn": "2021-12-12 19:12:39 +0700"
+    }
+  ],
+  "withdraw": [
+    {
+      "fullName": "Randall Head",
+      "email": "bepix@mailinator.com",
+      "balance": "1000",
+      "transactionAmount": "500",
+      "id": 1
+    }
+  ]
+}
