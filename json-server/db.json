@@ -1,0 +1,246 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server-2",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Cát Tường",
+      "author": "typicode"
+    }
+  ],
+  "deposit": [
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 1
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 2
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 3
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 4
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 5
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 6
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 7
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 8
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 9
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 10
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 11
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 12
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "0",
+      "transactionAmount": "10000",
+      "id": 13
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "10000",
+      "transactionAmount": "1000",
+      "id": 14
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "balance": "11000",
+      "transactionAmount": "2000",
+      "id": 15
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "customers": [
+    {
+      "fullName": "Heather Hopper",
+      "email": "fubyzykah@mailinator.com",
+      "phone": "+1 (202) 238-4092",
+      "address": "Qui ullam numquam al",
+      "balance": 0,
+      "id": 6
+    },
+    {
+      "fullName": "Maxwell Floyd",
+      "email": "jaga@mailinator.com",
+      "phone": "+1 (853) 128-5207",
+      "address": "Qui elit do duis id",
+      "balance": 0,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "fullName": "Clarke Barr",
+      "email": "xefowaqali@mailinator.com",
+      "phone": "+1 (433) 778-2876",
+      "address": "Voluptas soluta sint",
+      "balance": 1200
+    },
+    {
+      "fullName": "Beau Ferrell",
+      "email": "juxorul@mailinator.com",
+      "phone": "+1 (841) 515-8798",
+      "address": "Ex voluptatem unde ",
+      "balance": 13000,
+      "id": 10
+    }
+  ],
+  "transfers": [
+    {
+      "idSender": "8",
+      "nameSender": "Clarke Barr",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 1
+    },
+    {
+      "idSender": "8",
+      "nameSender": "Clarke Barr",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 2
+    },
+    {
+      "idSender": "10",
+      "nameSender": "Beau Ferrell",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 3
+    },
+    {
+      "idSender": "10",
+      "nameSender": "Beau Ferrell",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 4
+    },
+    {
+      "idSender": "8",
+      "nameSender": "Clarke Barr",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 5
+    },
+    {
+      "idSender": "8",
+      "nameSender": "Clarke Barr",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 6
+    },
+    {
+      "idSender": "8",
+      "nameSender": "Clarke Barr",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "1000",
+      "fees": "10",
+      "transactionAmount": "1100",
+      "id": 7
+    },
+    {
+      "idSender": "10",
+      "nameSender": "Beau Ferrell",
+      "idRecipient": "6",
+      "nameRecipient": "Heather Hopper",
+      "transferAmount": "500",
+      "fees": "10",
+      "transactionAmount": "550",
+      "id": 8
+    }
+  ],
+  "withdraw": []
+}
